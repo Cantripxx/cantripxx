@@ -10,7 +10,7 @@
 
 * **Futura Engenheira de Analytics & Desenvolvedora de Software**
 * **Graduanda em Engenharia de Software**
-* **Apaixonada por automação de dados**
+* **Apaixonada por dados**
 * **Focada em construir aplicações, integrar APIs e automatizar fluxos do início ao fim**
 
 ---
